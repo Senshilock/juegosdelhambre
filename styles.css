@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d4efdf;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+header h1 {
+    font-family: Broadway, sans-serif;
+    color: #ffb200;
+    font-size: 2em;
+}
+section img {
+    width: 1000%;
+    max-width: 1000px;
+    display: block;
+    margin: 0 auto 20px;
+    border-radius: 5px;
+}
+section p {
+    font-family: Harrington, sans-serif;
+    margin-bottom: 10px;
+    font-size: 1.1em;
+    color: #348b1a;
+}
